@@ -14,7 +14,7 @@ h1 {
 }
 
 h2 {
-  font-size: 20px;
+  font-size: 16px;
   line-height: normal;
   font-weight: 700;
 }
@@ -100,11 +100,13 @@ i {
 
 .blog-navigation h2 {
   margin-top: 0;
+  font-size: 20px;
 }
 
 .blog-navigation ul {
-  list-style: none;
+  list-style: circle;
   padding-left: 0;
+  font-size: 16px;
 }
 
 .blog-navigation li {
